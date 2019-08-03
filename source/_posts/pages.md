@@ -19,7 +19,6 @@ tags:
 - [ColderCoder](https://github.com/ColderCoder)
 - [ExcitedSpider](https://github.com/ExcitedSpider)
 - [Hanyuu](https://github.com/HanyuuFurude)([personal website](https://hanyuufurude.github.io))
-- [Inari](https://github.com/InariEcho)
 - [Jerome](https://github.com/zjdx1998)
 - [K024](https://github.com/K024)
 - [lyMeiSEU](https://github.com/lyMeiSEU)
@@ -27,6 +26,7 @@ tags:
 - [RoyWangjiahe](https://github.com/Roywangjiahe)
 - [SericaLaw](https://github.com/SericaLaw)
 - [Vigilans](https://github.com/Vigilans)
+- [若宮イヴ](https://github.com/WakamiyaEve)
 - [wangjunchi](https://github.com/wangjunchi)
 
 # About MSC
