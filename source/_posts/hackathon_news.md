@@ -6,13 +6,13 @@ tags:
     - hackathon
 ---
 
-![image-20191127232825615](/hackathon_news/image-20191127232825615.jpg)
+![image-20191127232825615](/hackathon_news/image-20191127232825615-1575383234155.jpg)
 
 2019年11月23、24日，Hackathon 2019 @ 华东 赛事在东南大学九龙湖校区顺利举行。 本次Hackathon活动由东南大学和微软亚洲研究院主办、由微软开发者关系部门、南京大学、南京航空航天大学、南京理工大学、苏州大学、山东大学、同济大学和华东师范大学联合承办的创客马拉松大赛“Hackathon  华东@2019”，本活动旨在激励华东地区高校学生的创新创造精神、为复有想法和创意的学生们提供一个可以共同交流、相互切磋、将想法大胆付诸于实践的大舞台。我们邀请了华东地区200余充满热情的青年创客，共同参与24h无间断协作开发和学习交流的只是盛宴，让创意的火花时刻迸发。 
 
 # 赛事简介
 
-“Hackathon”(创客马拉松)来源于美国，随着互联网时代的高歌猛进，有想法、有创意、想要把创意表达出来的创客与日俱增，而  Hackathon也因此风靡全球。如今， 无数国内外高校通过举办“Hackathon”来激励学生的创造精神，企业通过  “Hackathon”激发员工的创意，从而融进他们的产品中。“Hackathon”同时也变得越来越流行。在国内，北京、上海等城市每年都有不同组织举办“Hackathon” 活动来帮助他们获取创意。 
+“Hackathon”(/创客马拉松)来源于美国，随着互联网时代的高歌猛进，有想法、有创意、想要把创意表达出来的创客与日俱增，而  Hackathon也因此风靡全球。如今， 无数国内外高校通过举办“Hackathon”来激励学生的创造精神，企业通过  “Hackathon”激发员工的创意，从而融进他们的产品中。“Hackathon”同时也变得越来越流行。在国内，北京、上海等城市每年都有不同组织举办“Hackathon” 活动来帮助他们获取创意。 
 
 # 大赛主题
 
@@ -60,17 +60,17 @@ tags:
 
 > 现场专家和工作人员帮助参赛选手解答问题
 
-![image-20191203203122060](C:/Users/Hanyuu/Desktop/image-20191203203122060.png)
+![image-20191203203122060](/hackathon_news/image-20191203203122060-1575383200689.png)
 
-![image-20191203203239303](C:/Users/Hanyuu/Desktop/image-20191203203239303.png)
+![image-20191203203239303](/hackathon_news/image-20191203203239303-1575383205348.png)
 
-![image-20191203203353813](C:/Users/Hanyuu/Desktop/image-20191203203353813.png)
+![image-20191203203353813](/hackathon_news/image-20191203203353813-1575383208989.png)
 
 > 苏震巍老师的现场讲座
 
-![image-20191203203510745](C:/Users/Hanyuu/Desktop/image-20191203203510745.png)
+![image-20191203203510745](/hackathon_news/image-20191203203510745-1575383213022.png)
 
-此次活动的学习资料可在此处下载 [https://hackathon2019eastchina.github.io/learn/](https://hackathon2019eastchina.github.io/learn/)
+此次活动的学习资料可在此处下载 [https://hackathon2019eastchina.github.io/learn/](/https://hackathon2019eastchina.github.io/learn/)
 
 * 在晚间，我们举行”寻找神奇线索“的小游戏，活跃了现场气氛。
 
@@ -97,20 +97,20 @@ tags:
 
 >   比赛现场分发的各种微软和黑客马拉松等贴纸
 
-![image-20191127235147128](C:/Users/Hanyuu/Desktop/image-20191127235147128.jpg)
+![image-20191127235147128](/hackathon_news/image-20191127235147128-1575383217182.jpg)
 
 >   开幕式后微软亚洲研究院和微软公司的老师以及我们的工作人员在签名墙前合影
 
-![image-20191127235423613](/hackathon_news/image-20191127235423613.jpg)
+![image-20191127235423613](/hackathon_news/image-20191127235423613-1575383220357.jpg)
 
 >开幕式后微软亚洲研究院和微软公司的出席老师在签名墙前合影
 
-![image-20191127235233160](/hackathon_news/image-20191127235233160.jpg)
+![image-20191127235233160](/hackathon_news/image-20191127235233160-1575383223742.jpg)
 
 >    参赛选手的精彩答辩
 
-![image-20191127235850823](/hackathon_news/image-20191127235850823.jpg)
+![image-20191127235850823](/hackathon_news/image-20191127235850823-1575383225892.jpg)
 
 >    比赛结束后老师、工作人员和选手们合影
 
-![image-20191127235910640](/hackathon_news/image-20191127235910640.jpg)
+![image-20191127235910640](/hackathon_news/image-20191127235910640-1575383227636.jpg)
